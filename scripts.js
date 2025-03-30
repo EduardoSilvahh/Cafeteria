@@ -14,6 +14,3 @@ function esconderModal (){
 }
 
 
-function mostrarSobre (){
-    sobre.style.caixaSobre
-}
